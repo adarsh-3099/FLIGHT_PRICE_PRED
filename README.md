@@ -1,3 +1,3 @@
 # FLIGHT_PRICE_PRED
 
-A ML project which tries to automate price of flight. 
+A Machine Learning project which tries to automate price of flight. 
